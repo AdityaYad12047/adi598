@@ -1,6 +1,8 @@
-Hi i'm Aditya Yadav
-
-I'm passionate about coding 
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi i'm Aditya Yadav </h2
+<h3 align="center"> A passionate Full Stack Developer developer </h3>
+<h4 align="center">
+ I am a Computer Science Student from India having a keen intrest in programming and application development
+</h4>
 
 <p align="center">
 My interests: <br>
@@ -15,8 +17,6 @@ My interests: <br>
   <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/electron%20-%2320232e.svg?&style=for-the-badge&logo=electron&logoColor=%47848F">
   <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-
-</p>
 
 
 
