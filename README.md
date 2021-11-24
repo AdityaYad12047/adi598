@@ -1,10 +1,14 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi i'm Aditya Yadav </h2
-<h3 align="center"> A passionate Full Stack Developer developer </h3>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi i'm Aditya Yadav </h2>
+<h3 align ="center"> A passionate Full Stack Developer developer </h3>
 <h4 align="center">
- I am a Computer Science Student from India having a keen intrest in programming and application development
+ I am a Computer Science Student from India having a keen interest in programming and app development
 </h4>
 
+
+
 <p align="center">
+                                                         
+ 
 My interests: <br>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
@@ -19,7 +23,7 @@ My interests: <br>
   <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 
-<p align="center">
+
 Catch me On : <br>
  
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adi598)
